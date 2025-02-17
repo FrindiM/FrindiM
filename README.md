@@ -20,6 +20,9 @@ Di bawah ini adalah beberapa teknologi yang saya kuasai:
 - Javascript
 - C
 - Python
+- Dart
+- C#
+- C++
 
 ### Framework / Library
 - Laravel
@@ -28,11 +31,14 @@ Di bawah ini adalah beberapa teknologi yang saya kuasai:
 - Tkinter
 - Bootstrap
 - JQuey
+- Flutter
 
 ### Database
 - MYSQL
 - Microsoft SQL Server
 - Oracle Database
+- SQFLite
+- HIVE
 
 ### Teknologi Lainnya
 - Sistem Operasi: Linux, Windows
